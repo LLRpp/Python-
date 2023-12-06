@@ -1,0 +1,123 @@
+{  
+  "areaTree": [  
+    {  
+      "name": "中国",  
+      "children": [  
+        {  
+          "name": "北京市",  
+          "total": {  
+            "confirm": 851  
+          }  
+        },  
+        {  
+          "name": "天津市",  
+          "total": {  
+            "confirm": 276  
+          }  
+        },  
+        {  
+          "name": "河北省",  
+          "total": {  
+            "confirm": 4598  
+          }  
+        },  
+        {  
+          "name": "山西省",  
+          "total": {  
+            "confirm": 3217  
+          }  
+        },  
+        {  
+          "name": "内蒙古自治区",  
+          "total": {  
+            "confirm": 689  
+          }  
+        },  
+        {  
+          "name": "辽宁省",  
+          "total": {  
+            "confirm": 5468  
+          }  
+        },  
+        {  
+          "name": "吉林省",  
+          "total": {  
+            "confirm": 784  
+          }  
+        },  
+        {  
+          "name": "黑龙江省",  
+          "total": {  
+            "confirm": 2397  
+          }  
+        },  
+        {  
+          "name": "上海市",  
+          "total": {  
+            "confirm": 76  
+          }  
+        },  
+        {  
+          "name": "江苏省",  
+          "total": {  
+            "confirm": 412  
+          }  
+        },  
+        {  
+          "name": "浙江省",  
+          "total": {  
+            "confirm": 6548  
+          }  
+        },  
+        {  
+          "name": "安徽省",  
+          "total": {  
+            "confirm": 430  
+          }  
+        },  
+        {  
+          "name": "福建省",  
+          "total": {  
+            "confirm": 8193  
+          }  
+        },  
+        {  
+          "name": "江西省",  
+          "total": {  
+            "confirm": 2103  
+          }  
+        },  
+        {  
+          "name": "山东省",  
+          "total": {  
+            "confirm": 639  
+          }  
+        },  
+        {  
+          "name": "河南省",  
+          "total": {  
+            "confirm": 5094  
+          }  
+        },  
+        {  
+          "name": "湖北省",  
+          "total": {  
+            "confirm": 957  
+          }  
+        },  
+        {  
+          "name": "湖南省",  
+          "total": {  
+            "confirm": 6425  
+          }  
+        },  
+        {  
+          "name": "广东省",  
+          "total": {  
+            "confirm": 8945  
+          }  
+        }
+            ]  
+        }  
+    ]  
+}

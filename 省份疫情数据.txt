@@ -1,0 +1,74 @@
+{  
+  "areaTree": [  
+    {  
+      "name": "中国",  
+      "children": [  
+        {  
+          "name": "湖南省",  
+          "children": [  
+            {  
+              "name": "长沙市",  
+              "total": {  
+                "confirm": 145  
+              }  
+            },  
+            {  
+              "name": "岳阳市",  
+              "total": {  
+                "confirm": 59  
+              }  
+            },  
+            {  
+              "name": "常德市",  
+              "total": {  
+                "confirm": 478  
+              }  
+            },  
+            {  
+              "name": "衡阳市",  
+              "total": {  
+                "confirm": 4567  
+              }  
+            },  
+            {  
+              "name": "株洲市",  
+              "total": {  
+                "confirm": 2456  
+              }  
+            },  
+            {  
+              "name": "郴州市",  
+              "total": {  
+                "confirm": 67890  
+              }  
+            },  
+            {  
+              "name": "永州市",  
+              "total": {  
+                "confirm": 5789  
+              }  
+            },  
+            {  
+              "name": "邵阳市",  
+              "total": {  
+                "confirm": 45678  
+              }  
+            },  
+            {  
+              "name": "怀化市",  
+              "total": {  
+                "confirm": 7  
+              }  
+            },  
+            {  
+              "name": "张家界市",  
+              "total": {  
+                "confirm": 23456  
+              }  
+            }  
+          ]  
+        }  
+      ]  
+    }  
+  ]  
+}
